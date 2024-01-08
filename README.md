@@ -90,7 +90,7 @@ is `XGBoost` with an accuracy of 0.68 and recall of 0.60.
 
 ![feature_importance](image/feature_importance.png)
 
-Inference from the `XGBoost` coefficients showed that gold price is predicted correctly which are influenced by xau index (gold mine), USD-CNY, crudeoil price, and Dow Jones.
+Feature importance from the `XGBoost` coefficients showed that gold price is predicted correctly which are influenced by xau index (gold mine), USD-CNY, crudeoil price, and Dow Jones.
 
 # Suggestion
 On top from conclusion, these features can estimate gold price movement, but investors has to spend time on news. For example, Russian-Ukrain War and COVID-19 Pandemic critically affected on macroeconomics, so gold price has a huge impact after this circumstances. If there are some rumors about 2024 or future prediction, investors should carefully see the reliable news and data. 
